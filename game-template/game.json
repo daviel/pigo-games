@@ -1,0 +1,22 @@
+{
+    "id": "com.pigo.thegame",
+    "title": "thegame",
+    "description": "A example game",
+    "main_image": "example.png",
+    "small_image": "example.png",
+    "dirname": "game-template",
+    "executable": "start.sh",
+    "requirements": ["example-engine-v3.1"],
+    "last_start": null,
+    "playtime": 0,
+    "is_installed": false,
+    "rating": null,
+    "size": "104",
+    "tags": ["console"],
+    "deletable": true,
+    "keymap": "UP=REL_Y=-2 DOWN=REL_Y=2 LEFT=REL_X=-2 RIGHT=REL_X=2 A=BTN_LEFT B=BTN_RIGHT X=BTN_MIDDLE",
+    "screenshots":
+    [
+        "example.png"
+    ]
+}
